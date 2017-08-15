@@ -1,0 +1,13 @@
+0 tests passed.
+11 tests failed.
+#1. numShortestPaths() is incorrect on large graph 4, between nodes with 1 distinct shortest path
+#2. numShortestPaths() test with 4 nodes fails when there are 2 distinct shortest paths
+#3. solveMaze() uses/returns a null value, make sure to implement all required functions
+#4. solveMaze() uses/returns a null value, make sure to implement all required functions
+#5. solveMaze() uses/returns a null value, make sure to implement all required functions
+#6. solveMaze() uses/returns a null value, make sure to implement all required functions
+#7. numShortestPaths() is incorrect on test with large graph, where two nodes have many distinct shortest paths
+#8. numShortestPaths() is incorrect on test with large graph 2, where two nodes have many distinct shortest paths
+#9. solveMaze() uses/returns a null value, make sure to implement all required functions
+#10. numShortestPaths() is incorrect on graph with exponential number of distinct shortest paths
+#11. numShortestPaths() test on small complete graph fails when there is 1 distinct shortest path
