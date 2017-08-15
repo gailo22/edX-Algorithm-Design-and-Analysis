@@ -10,7 +10,7 @@
  * *You do not have to modify this class*
  *
  */
-public class WeightedDigraph<E> extends WeightedGraphTest<E> {
+public class WeightedDigraph<E> extends WeightedGraph<E> {
 
 	public WeightedDigraph(int n) {
 		super(n);

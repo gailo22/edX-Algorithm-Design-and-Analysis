@@ -10,7 +10,7 @@
  * *You do not have to modify this class*
  *
  */
-public class WeightedUndirectedGraph<E> extends WeightedGraphTest<E> {
+public class WeightedUndirectedGraph<E> extends WeightedGraph<E> {
 
 	public WeightedUndirectedGraph(int n) {
 		super(n);
